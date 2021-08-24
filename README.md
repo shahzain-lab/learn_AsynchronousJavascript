@@ -1,2 +1,3 @@
-# learn_AsynchronousJavascript
 ![logo](./img/asyncJS.png)
+###The repo contains usefull information about asynchronous javascript with practicle coding challenges and background.
+_________________________________________________________________________________________________________________________________________________________________________________
